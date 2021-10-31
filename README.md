@@ -1,3 +1,7 @@
+### <p align="center">Auto Typing Web Design Project Video</p>
+<video src="https://user-images.githubusercontent.com/66327336/139576984-575dbea4-8837-4e30-b856-03c606100caf.mp4" alt="project video"></video>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
