@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Auto-Typing-With-React/static/css/main.c56bf967.chunk.css",
+    "main.js": "/Auto-Typing-With-React/static/js/main.50f3426f.chunk.js",
+    "main.js.map": "/Auto-Typing-With-React/static/js/main.50f3426f.chunk.js.map",
+    "runtime-main.js": "/Auto-Typing-With-React/static/js/runtime-main.36f29b23.js",
+    "runtime-main.js.map": "/Auto-Typing-With-React/static/js/runtime-main.36f29b23.js.map",
+    "static/js/2.258bbc55.chunk.js": "/Auto-Typing-With-React/static/js/2.258bbc55.chunk.js",
+    "static/js/2.258bbc55.chunk.js.map": "/Auto-Typing-With-React/static/js/2.258bbc55.chunk.js.map",
+    "index.html": "/Auto-Typing-With-React/index.html",
+    "static/css/main.c56bf967.chunk.css.map": "/Auto-Typing-With-React/static/css/main.c56bf967.chunk.css.map",
+    "static/js/2.258bbc55.chunk.js.LICENSE.txt": "/Auto-Typing-With-React/static/js/2.258bbc55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36f29b23.js",
+    "static/js/2.258bbc55.chunk.js",
+    "static/css/main.c56bf967.chunk.css",
+    "static/js/main.50f3426f.chunk.js"
+  ]
+}
