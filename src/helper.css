@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&family=Poppins:wght@300&family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  background: #343a40;
+  color: aliceblue;
+  text-align: center;
+  margin: 0 auto;
+  position: absolute;
+  top: 40%;
+  left: 0%;
+  right: 0%;
+}
+
+p {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+img { 
+    border-radius: 50%; 
+    width: 150px;
+    height: 150px;
+}

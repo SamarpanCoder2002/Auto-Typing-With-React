@@ -1,17 +1,15 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom";
+import AutoTypingHelper from "./auto-typing-helper";
+import "./helper.css";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  <div>
+    <img
+      src="https://yt3.ggpht.com/ytc/AKedOLTLgHB0ug9cNJL9S9ilIoRmdh7AZuKvpTPBMShRcw=s900-c-k-c0x00ffffff-no-rj"
+      alt="samarpan_picture"
+    />
+    <AutoTypingHelper />
+  </div>,
+  document.getElementById("root")
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
